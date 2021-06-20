@@ -1,7 +1,19 @@
 # Resources
 Find documentation for the SpaceTraders.io Docs [here](https://api.spacetraders.io)
 
-[Docs](http://ar.skinetics.tech/stellarios/compass/#geministation) & [Ideas](https://www.notion.so/skinetics/Gemini-Station-15c17fe702ca4e718435a655bdcc0d7c)
+[Check out the Docs](http://ar.skinetics.tech/stellarios/compass/#geministation) & [Ideas](https://www.notion.so/skinetics/Gemini-Station-15c17fe702ca4e718435a655bdcc0d7c)
+
+# Discord Bot
+The bot possesses the following environment variables:
+* `discotoken` -> The token for your discord bot (when we publish our bot/client this will be implemented differently)
+
+This repository/replit also possesses some other environment variables:
+* `token` -> The user's SpaceTraders.io token
+* `discorddeveloperportal` -> A quick link to the admin section for the user's discord bot 
+
+These environment variables are set in the [Repl.it](https://replit.com/@IrisDroidology/GeminiStationClient#README.md) but can also be set in a `.env` file.
+
+# About this Client
 
 My goal for this is as follows:
 * Be able to interact with any game's API in Discord/Matrix, the terminal and in a web format
