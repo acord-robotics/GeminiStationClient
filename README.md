@@ -54,3 +54,6 @@ Different games and platforms have differing levels of what you can do with thei
 
 *Messaging/Communication*
 * [GetStream.io Django](https://github.com/GetStream/stream-chat-python)
+
+# Using
+[Codeship](https://app.codeship.com/projects/44980cf8-2d16-41c7-942a-0e288c1bef5b)
