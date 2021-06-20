@@ -1,12 +1,17 @@
 # Resources
 Find documentation for the SpaceTraders.io Docs [here](https://api.spacetraders.io)
 
+[Docs](http://ar.skinetics.tech/stellarios/compass/#geministation) & [Ideas](https://www.notion.so/skinetics/Gemini-Station-15c17fe702ca4e718435a655bdcc0d7c)
+
 My goal for this is as follows:
 * Be able to interact with any game's API in Discord/Matrix, the terminal and in a web format
 * Explore how this can relate to my team's [Game Engine Project](http://ar.skinetics.tech/stellarios/compass)
 * Build some form of NFTs into this platform
 
 Different games and platforms have differing levels of what you can do with their APIs, but I'm wanting to create a way that each game can be interacted with similarly (again, see our Game Engine Project and the [NFT Docs]).
+
+**Python Modules/Libaries**
+* [SpaceTradersPythonSDK](https://pypi.org/project/SpacePyTraders/)
 
 ** No Man's Sky Info **
 * [No Man's Sky Community Developers](https://github.com/NMSCD)
