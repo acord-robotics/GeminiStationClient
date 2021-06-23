@@ -28,13 +28,9 @@ async def on_message(message):
 
     # Message awaits
     if message.channel.name == 'updates':  # random channel name in the discord server I've currently got this set bot set in
-        if user_message.lower() == 'hello':
-            await message.channel.send(f'Hello {username}!')
-            return
-        elif user_message.lower() == 'Gizmotronn':
-            await message
-        elif user_message.startswith('$login')
-            await message.channel.sent(f'Attempting to login, {username}!')
+        if user_message.startswith("!token"):
+            userToken = user_message.replace('!token ', '')
+            await message.channel.send("Your token is: " + userToken)
             
 
 
