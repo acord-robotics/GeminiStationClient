@@ -47,5 +47,6 @@ async def on_message(message):
             await message.channel.send("Hi" + User[0])
         
 
-client.run("ODU2MDkwNjM2MDE2NTQ5ODg4.YM7-iQ.YOaIjnVh8bcdg8WITVBbO0K9zNY")
+client.run(discotoken)
 # 097a72d9-1321-4048-9f74-b189c2c4ca00
+#ODU2MDkwNjM2MDE2NTQ5ODg4.YM7-iQ.Jwo9fjvoB9VmUnBbGbqejbyaBoQ
