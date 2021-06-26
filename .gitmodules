@@ -1,3 +1,6 @@
 [submodule "nftclient"]
 	path = nftclient
 	url = keybase://team/signalkinetics/nft-game
+[submodule "nft-client"]
+	path = nft-client
+	url = keybase://team/signalkinetics/nft-game
