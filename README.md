@@ -1,6 +1,8 @@
 # Resources
 Find documentation for the SpaceTraders.io Docs [here](https://api.spacetraders.io)
 
+[NFT Clien](https://www.notion.so/skinetics/SpaceTraders-91fe45798e214e5b9d8213098f44c366)[t](https://www.notion.so/skinetics/Homebase-Liam-3142a2a44ac041078567be7218c7b661#d329005a17284475be0050365f6a007f). Repo in `nft-client` OR [github/sigal-kinetics/nft-game](https://github.com/Signal-Kinetics/nft-game/tree/main)
+
 [Check out the Docs](http://ar.skinetics.tech/stellarios/compass/#geministation) & [Ideas](https://www.notion.so/skinetics/Gemini-Station-15c17fe702ca4e718435a655bdcc0d7c)
 
 # Discord Bot
