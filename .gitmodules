@@ -4,3 +4,6 @@
 [submodule "nft-client"]
 	path = nft-client
 	url = keybase://team/signalkinetics/nft-game
+[submodule "smartpy"]
+	path = smartpy
+	url = keybase://team/signalkinetics/smartpy
