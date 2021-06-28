@@ -7,3 +7,6 @@
 [submodule "smartpy"]
 	path = smartpy
 	url = keybase://team/signalkinetics/smartpy
+[submodule "nft-game"]
+	path = nft-game
+	url = keybase://team/signalkinetics/nft-game
