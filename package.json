@@ -1,0 +1,15 @@
+{
+  "name": "geminiunityserver",
+  "version": "1.0.0",
+  "description": "Server for GeminiStation.com - github.com/acord-robotics/geministationclient",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "LArbuckle",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
